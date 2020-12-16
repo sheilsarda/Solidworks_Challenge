@@ -7,3 +7,11 @@
 - Motor (off-the-shelf)
 - Motor housing (custom)
 - Shaft (custom)
+
+![image info](/images/motor_assembly.png)
+
+### Electrodynamic Rotary Motors for Precision Positioning
+
+Most precision positioning stages are still driven by rotary motors for reasons such as size, cost, holding force, and controllability.
+
+In addition to electrodynamic (electromagnetic) motors, non-magnetic motors such as piezoelectric linear and rotary motors have recently been adopted by precision motion engineers for unique features such as small size, high precision, low heat generation and self-locking capabilities.
